@@ -1,0 +1,4 @@
+build/
+sui.log.*
+node_modules/
+.env
