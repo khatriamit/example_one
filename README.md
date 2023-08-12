@@ -26,5 +26,6 @@ yarn install
 Run script
 
 ```
-ts-node client/nts.ts
+cd client
+ts-node scripts/nts.ts
 ```
